@@ -1,0 +1,7 @@
+v 4
+file . "controlador_display_lcd_tb.vhdl" "115dd90e18cb1065b54a385061dae4cdda04221d" "20200510041613.561":
+  entity controlador_display_lcd_tb at 1( 0) + 0 on 105;
+  architecture arch of controlador_display_lcd_tb at 11( 169) + 0 on 106;
+file . "controlador_display_lcd.vhdl" "c22c588754ab03a69ac2908f13874e719d94c190" "20200510023129.285":
+  entity controlador_display_lcd at 1( 0) + 0 on 45;
+  architecture arch of controlador_display_lcd at 25( 756) + 0 on 46;
